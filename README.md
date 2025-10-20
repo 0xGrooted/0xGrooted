@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 You can find me on HackTheBox, CodeWars or here.
 Unless the football is on ;D
